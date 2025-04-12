@@ -15,22 +15,6 @@ This is a simple implementation of the classic **Breakout** game, written in Pyt
 
 - **Mouse Movement**: Move the paddle left and right to bounce the ball and break the bricks.
 
-## ⚙️ Installation
-
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/yourusername/breakout-game.git
-    ```
-   
-2. Navigate to the project directory:
-    ```bash
-    cd breakout-game
-    ```
-
-3. Install the required Python libraries using `pip`:
-    ```bash
-    pip install pygame
-    ```
 
 ## 🏁 How to Play
 
@@ -55,14 +39,6 @@ This is a simple implementation of the classic **Breakout** game, written in Pyt
 
 - **Win Condition**: The player wins the game by breaking all the bricks.
 
-## 📸 Screenshots
-
-Add some screenshots here to showcase your game in action.
-
-## 📋 Dependencies
-
-- Python 3.x
-- Pygame
 
 ## 📝 License
 
